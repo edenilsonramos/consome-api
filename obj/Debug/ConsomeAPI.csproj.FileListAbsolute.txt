@@ -1,0 +1,15 @@
+C:\Users\Des8\source\repos\ConsomeAPI\obj\Debug\ConsomeAPI.csproj.AssemblyReference.cache
+C:\Users\Des8\source\repos\ConsomeAPI\obj\Debug\ConsomeAPI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Des8\source\repos\ConsomeAPI\obj\Debug\ConsomeAPI.Form1.resources
+C:\Users\Des8\source\repos\ConsomeAPI\obj\Debug\ConsomeAPI.Properties.Resources.resources
+C:\Users\Des8\source\repos\ConsomeAPI\obj\Debug\ConsomeAPI.csproj.GenerateResource.cache
+C:\Users\Des8\source\repos\ConsomeAPI\obj\Debug\ConsomeAPI.csproj.CoreCompileInputs.cache
+C:\Users\Des8\source\repos\ConsomeAPI\bin\Debug\ConsomeAPI.exe.config
+C:\Users\Des8\source\repos\ConsomeAPI\bin\Debug\ConsomeAPI.exe
+C:\Users\Des8\source\repos\ConsomeAPI\bin\Debug\ConsomeAPI.pdb
+C:\Users\Des8\source\repos\ConsomeAPI\bin\Debug\SGDeliver.dll
+C:\Users\Des8\source\repos\ConsomeAPI\bin\Debug\SGDeliver.pdb
+C:\Users\Des8\source\repos\ConsomeAPI\bin\Debug\SGDeliver.dll.config
+C:\Users\Des8\source\repos\ConsomeAPI\obj\Debug\ConsomeAPI.csproj.CopyComplete
+C:\Users\Des8\source\repos\ConsomeAPI\obj\Debug\ConsomeAPI.exe
+C:\Users\Des8\source\repos\ConsomeAPI\obj\Debug\ConsomeAPI.pdb
